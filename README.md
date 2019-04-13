@@ -1,1 +1,1 @@
-# Segue aqui o pdf com as questões do ENADE resolvidas, foram resolvidas 3 questões no pdf mostrado sendo que a primeira apesar de envolver conceitos não vistos em aula sobre Processamento digital de sinais é possível realisa-la por eliminação e conceitos vistos em sala de aula.
+# Segue aqui o pdf com as questões do ENADE resolvidas.
